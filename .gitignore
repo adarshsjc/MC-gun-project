@@ -1,0 +1,7 @@
+.pio
+.vscode
+.venv
+logs/
+compile_commands.json
+savess.txt
+__pycache__/

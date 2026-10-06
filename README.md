@@ -1,6 +1,6 @@
-﻿# Asthra Gun Project (STM32 Blue Pill Edition)
+﻿# Motion-Controlled Gaming Gun (STM32 Blue Pill Edition)
 
-Asthra is a motion-controlled gaming gun built with an **STM32F103C8T6 (Blue Pill)** and an **MPU-6050** gyro/accelerometer module. It allows you to play FPS games directly in your browser using physical movements to aim, alongside a joystick and buttons for movement and actions.
+This project is a motion-controlled gaming gun built with an **STM32F103C8T6 (Blue Pill)** and an **MPU-6050** gyro/accelerometer module. It allows you to play FPS games directly in your browser using physical movements to aim, alongside a joystick and buttons for movement and actions.
 
 ## Hardware Components
 - **Microcontroller**: STM32F103C8T6 (Blue Pill)
@@ -10,7 +10,7 @@ Asthra is a motion-controlled gaming gun built with an **STM32F103C8T6 (Blue Pil
 - **Data Connection**: USB CDC (Direct Micro-USB to PC Serial connection)
 
 ## The Game: Operation Ironhold
-This repository includes a modified version of **Operation Ironhold**, an open-source browser-based FPS game, adapted specifically to work with the Asthra Gun controller. 
+This repository includes a modified version of **Operation Ironhold**, an open-source browser-based FPS game, adapted specifically to work with this gun controller. 
 
 **Original Game Creator**: [StarKnightt](https://github.com/StarKnightt)  
 **Original Game Repository**: [operation-ironhold](https://github.com/StarKnightt/operation-ironhold)
